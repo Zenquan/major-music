@@ -14,5 +14,5 @@
 
 
 
-<img src="https://tva1.sinaimg.cn/large/0081Kckwgy1gkutktt84mj30n01ds4qr.jpg" alt="IMG_2919" style="zoom: 25%;" />
+![](https://tva1.sinaimg.cn/large/0081Kckwgy1gkutktt84mj30n01ds4qr.jpg)
 
